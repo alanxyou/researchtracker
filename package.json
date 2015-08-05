@@ -1,0 +1,14 @@
+{
+  "name": "researchtracker",
+  "version": "0.0.1",
+  "description": "Research tracking system.",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "error-handler": "^1.0.0",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.1",
+    "path": "^0.11.14"
+  }
+}
